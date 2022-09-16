@@ -16,6 +16,6 @@ In this competition, participants are asked to combine historical usage patterns
 to **forecast bike rental demand** in the Capital Bikeshare program in Washington, D.C.
               
 ### Evaluation:   
-  Submissions are Submissions are evaluated one the Root Mean Squared Logarithmic Error (RMSLE). one the Root Mean Squared Logarithmic Error (RMSLE). 
+  Submissions are Submissions are evaluated one the **Root Mean Squared Logarithmic Error (RMSLE)**. one the Root Mean Squared Logarithmic Error (RMSLE). 
 
 ### kaggle API to download dataset: kaggle competitions download -c bike-sharing-demand
